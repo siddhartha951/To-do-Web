@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    display: 100%;
 }
 
 .Upper-container{
@@ -485,11 +486,13 @@
 }
 
 .back-btn{
+    color: black;
     position: absolute;
     top: 10px;
     left: 30%;
 }
 .back{
+    color: black;
     position: absolute;
     top: 16px;
     left: 34%;
